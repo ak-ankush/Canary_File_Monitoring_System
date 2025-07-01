@@ -5,4 +5,4 @@ ___________________________________________________________________
 The project is currently under progress. Contributions and feedback are welcome to improve the system.
 
 ### Flow chart
-![diagram](https://github.com/user-attachments/assets/8091d894-7b40-473d-ae4f-db6aa338c53a)
+![flow_diagram](https://github.com/user-attachments/assets/2f5ec36b-1cb0-4a01-8935-cec433d5ffe6)
