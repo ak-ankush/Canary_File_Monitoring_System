@@ -6,3 +6,10 @@ The project is currently under progress. Contributions and feedback are welcome 
 
 ### Flow chart
 ![flow_diagram](https://github.com/user-attachments/assets/d7101d54-9ade-4414-90ba-b9a3507954db)
+
+### Sample Dashboard
+<img width="1898" height="761" alt="Screenshot 2025-08-31 214420" src="https://github.com/user-attachments/assets/cfaecf47-c318-4f0c-a0c5-3ce74bb7edda" />
+
+
+### Email Alerts
+<img width="879" height="610" alt="Screenshot 2025-08-31 215144" src="https://github.com/user-attachments/assets/343c9fa7-6a3f-4393-b919-82452f207b8c" />
